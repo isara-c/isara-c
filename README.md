@@ -5,25 +5,21 @@
 
 ## Tools
 
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</a>
-<a href="https://jupyter.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
-alt="jupyter notebook" width="40" height="40"/>
-</a>
 <a href="https://cloud.google.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
 alt="gcp-cloud-platform" width="40"height="40"/>
 </a>
+
 <a href="https://cloud.google.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
 alt="gcp-cloud-platform" width="40"height="40"/>
 </a>
+
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"
 width="40" height="40">
 </a>
+
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres"width="40" height="40"/>
 </a>
@@ -32,6 +28,7 @@ width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
 alt="github" width="40" height="40"/>
 </a>
+
 <a href="https://about.gitlab.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" 
 alt="github"width="40" height="40"/>
@@ -60,10 +57,11 @@ alt='pytorch' width="40" height="40">
 
 ## Languages
 
-<a href="" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-width="40" height="40"></a>
 
 <a href="" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+width="40" height="40"></a>
+
+<a href="" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
 width="40" height="40"></a>
