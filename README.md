@@ -49,12 +49,12 @@ alt="gcp-cloud-platform" width="40"height="40"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
-<img src=https://www.svgrepo.com/show/439233/mysql.svg"
+<img src="https://www.svgrepo.com/show/355133/mysql.svg"
 width="40" height="40">
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank">
-<img src="https://www.svgrepo.com/show/439268/postgresql.svg" 
+<img src="https://www.svgrepo.com/show/354200/postgresql.svg" 
 width="40" height="40"/>
 </a>
 
@@ -65,12 +65,12 @@ width="40" height="40"/>
 
 <a href="https://github.com" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
-alt="github" width="40" height="40"/>
+width="40" height="40"/>
 </a>
 
 <a href="https://about.gitlab.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" 
-alt="github"width="40" height="40"/>
+wwidth="40" height="40"/>
 </a>
 
 
@@ -102,6 +102,8 @@ alt='pytorch' width="40" height="40">
 <a href="https://pytorch.org/" target="_blank">
 <img src="https://www.svgrepo.com/show/330413/fastapi.svg"
 alt='pytorch' width="40" height="40">
+
+---
 </a>
 
 ---
