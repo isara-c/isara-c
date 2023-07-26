@@ -12,7 +12,7 @@
 width="40" height="40"></a>
 
 <a href="" target="_blank">
-<img src="https://www.svgrepo.com/show/332298/console-sql.svg"
+<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"
 width="40" height="40"></a>
 
 
