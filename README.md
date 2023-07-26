@@ -8,7 +8,7 @@
 
 
 <a href="" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+<img src="https://www.svgrepo.com/show/354238/python.svg"
 width="40" height="40"></a>
 
 <a href="" target="_blank">
@@ -17,7 +17,7 @@ width="40" height="40"></a>
 
 
 <a href="" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+<img src="https://www.svgrepo.com/show/349540/typescript.svg"
 width="40" height="40"></a>
 
 <a href="" target="_blank">
@@ -38,6 +38,11 @@ width="40" height="40"></a>
 alt="gcp-cloud-platform" width="40"height="40"/>
 </a>
 
+<a href="https://about.gitlab.com/" target="_blank">
+<img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" 
+alt="github"width="40" height="40"/>
+</a>
+
 <a href="https://cloud.google.com/" target="_blank">
 <img src="https://www.svgrepo.com/show/349342/docker.svg"
 alt="gcp-cloud-platform" width="40"height="40"/>
@@ -49,7 +54,13 @@ width="40" height="40">
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres"width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" 
+width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://www.svgrepo.com/show/331488/mongodb.svg" 
+width="40" height="40"/>
 </a>
 
 <a href="https://github.com" target="_blank">
@@ -77,11 +88,20 @@ alt="github"width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
 alt='tensorflow' width="40" height="40">
 </a>
+
 <a href="https://pytorch.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
 alt='pytorch' width="40" height="40">
 </a>
 
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://www.svgrepo.com/show/354139/opencv.svg"
+alt='pytorch' width="40" height="40">
+</a>
 
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://www.svgrepo.com/show/330413/fastapi.svg"
+alt='pytorch' width="40" height="40">
+</a>
 
 ---
