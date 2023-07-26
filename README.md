@@ -33,20 +33,6 @@ width="40" height="40"></a>
 
 ## Tools
 
-
-<a href="https://cloud.google.com/" target="_blank">
-<img src="https://www.svgrepo.com/show/354427/tableau.svg"
-alt="gcp-cloud-platform" width="40"height="40"/>
-</a>
-
-
-<a href="https://cloud.google.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg"
-alt="gcp-cloud-platform" width="40"height="40"/>
-</a>
-
-
-
 <a href="https://cloud.google.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
 alt="gcp-cloud-platform" width="40"height="40"/>
@@ -75,6 +61,8 @@ alt="github" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" 
 alt="github"width="40" height="40"/>
 </a>
+
+
 ---
 
 
