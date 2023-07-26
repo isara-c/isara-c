@@ -49,12 +49,12 @@ alt="gcp-cloud-platform" width="40"height="40"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
-<img src="https://www.svgrepo.com/show/473731/mysql.svg"
+<img src=https://www.svgrepo.com/show/439233/mysql.svg"
 width="40" height="40">
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" 
+<img src="https://www.svgrepo.com/show/439268/postgresql.svg" 
 width="40" height="40"/>
 </a>
 
