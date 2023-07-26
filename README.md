@@ -1,4 +1,4 @@
-## Welcome to my GitHub repository! This is where I share my hobby project. My main professional works and activities are hosted on [GitLab](https://gitlab.com/isara.c).
+## 👋 This is where I share my hobby project. My main professional works and activities are hosted on [GitLab](https://gitlab.com/isara.c).
 
 
 ---
