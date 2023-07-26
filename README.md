@@ -12,6 +12,11 @@
 width="40" height="40"></a>
 
 <a href="" target="_blank">
+<img src="https://www.svgrepo.com/show/332298/console-sql.svg"
+width="40" height="40"></a>
+
+
+<a href="" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
 width="40" height="40"></a>
 
@@ -19,9 +24,28 @@ width="40" height="40"></a>
 <img src="https://www.svgrepo.com/show/349342/docker.svg"
 width="40" height="40"></a>
 
+
+<a href="" target="_blank">
+<img src="https://www.svgrepo.com/show/373830/matlab.svg"
+width="40" height="40"></a>
+
 ---
 
 ## Tools
+
+
+<a href="https://cloud.google.com/" target="_blank">
+<img src="https://www.svgrepo.com/show/354427/tableau.svg"
+alt="gcp-cloud-platform" width="40"height="40"/>
+</a>
+
+
+<a href="https://cloud.google.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg"
+alt="gcp-cloud-platform" width="40"height="40"/>
+</a>
+
+
 
 <a href="https://cloud.google.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
@@ -29,12 +53,12 @@ alt="gcp-cloud-platform" width="40"height="40"/>
 </a>
 
 <a href="https://cloud.google.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
+<img src="https://www.svgrepo.com/show/349342/docker.svg"
 alt="gcp-cloud-platform" width="40"height="40"/>
 </a>
 
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://www.svgrepo.com/show/473731/mysql.svg"
 width="40" height="40">
 </a>
 
@@ -51,8 +75,6 @@ alt="github" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" 
 alt="github"width="40" height="40"/>
 </a>
-
-
 ---
 
 
