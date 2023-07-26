@@ -3,6 +3,24 @@
 
 ---
 
+
+## Languages
+
+
+<a href="" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+width="40" height="40"></a>
+
+<a href="" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+width="40" height="40"></a>
+
+<a href="" target="_blank">
+<img src="https://www.svgrepo.com/show/349342/docker.svg"
+width="40" height="40"></a>
+
+---
+
 ## Tools
 
 <a href="https://cloud.google.com/" target="_blank">
@@ -55,13 +73,5 @@ alt='pytorch' width="40" height="40">
 </a>
 
 
-## Languages
 
-
-<a href="" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-width="40" height="40"></a>
-
-<a href="" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-width="40" height="40"></a>
+---
