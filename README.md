@@ -1,33 +1,27 @@
 ## This is where I share my hobby project. My main professional works and activities are hosted on [GitLab](https://gitlab.com/isara.c).
 
 
----
-
-
 ## Languages
 
-
-<a href="" target="_blank">
+<a href="https://www.python.org/" target="_blank">
 <img src="https://www.svgrepo.com/show/354238/python.svg"
-width="40" height="40"></a>
+alt="python" width="40" height="40"></a>
 
-<a href="" target="_blank">
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"
-width="40" height="40"></a>
+alt="sql" width="40" height="40"></a>
 
-
-<a href="" target="_blank">
+<a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://www.svgrepo.com/show/349540/typescript.svg"
-width="40" height="40"></a>
+alt="typescript" width="40" height="40"></a>
 
-<a href="" target="_blank">
-<img src="https://www.svgrepo.com/show/349342/docker.svg"
-width="40" height="40"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+alt="javascript" width="40" height="40"></a>
 
-
-<a href="" target="_blank">
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
 <img src="https://www.svgrepo.com/show/373830/matlab.svg"
-width="40" height="40"></a>
+alt="matlab" width="40" height="40"></a>
 
 ---
 
@@ -35,75 +29,86 @@ width="40" height="40"></a>
 
 <a href="https://cloud.google.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-alt="gcp-cloud-platform" width="40"height="40"/>
-</a>
+alt="gcp" width="40" height="40"/></a>
 
-<a href="https://about.gitlab.com/" target="_blank">
-<img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" 
-alt="github"width="40" height="40"/>
-</a>
-
-<a href="https://cloud.google.com/" target="_blank">
+<a href="https://www.docker.com/" target="_blank">
 <img src="https://www.svgrepo.com/show/349342/docker.svg"
-alt="gcp-cloud-platform" width="40"height="40"/>
-</a>
+alt="docker" width="40" height="40"/></a>
+
+<a href="https://www.tableau.com/" target="_blank">
+<img src="https://www.svgrepo.com/show/354428/tableau-icon.svg"
+alt="tableau" width="40" height="40"/></a>
 
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://www.svgrepo.com/show/355133/mysql.svg"
-width="40" height="40">
-</a>
+alt="mysql" width="40" height="40"/></a>
 
 <a href="https://www.postgresql.org/" target="_blank">
-<img src="https://www.svgrepo.com/show/354200/postgresql.svg" 
-width="40" height="40"/>
-</a>
+<img src="https://www.svgrepo.com/show/354200/postgresql.svg"
+alt="postgresql" width="40" height="40"/></a>
 
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://www.svgrepo.com/show/331488/mongodb.svg" 
-width="40" height="40"/>
-</a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://www.svgrepo.com/show/331488/mongodb.svg"
+alt="mongodb" width="40" height="40"/></a>
+
+<a href="https://www.elastic.co/elasticsearch" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg"
+alt="elasticsearch" width="40" height="40"/></a>
+
+<a href="https://jupyter.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+alt="jupyter" width="40" height="40"/></a>
 
 <a href="https://github.com" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
-width="40" height="40"/>
-</a>
+alt="github" width="40" height="40"/></a>
 
 <a href="https://about.gitlab.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" 
-wwidth="40" height="40"/>
-</a>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"
+alt="gitlab" width="40" height="40"/></a>
 
 ---
-
-
 
 ## Frameworks
 
 <a href="https://scikit-learn.org/stable/" target="_blank">
-<img alt="File:Scikit learn logo small.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052" width="74" height="40">
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
+alt="scikit-learn" width="40" height="40"></a>
 
 <a href="https://www.tensorflow.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-alt='tensorflow' width="40" height="40">
-</a>
+alt="tensorflow" width="40" height="40"></a>
 
 <a href="https://pytorch.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
-alt='pytorch' width="40" height="40">
-</a>
+alt="pytorch" width="40" height="40"></a>
 
-<a href="https://pytorch.org/" target="_blank">
+<a href="https://opencv.org/" target="_blank">
 <img src="https://www.svgrepo.com/show/354139/opencv.svg"
-alt='pytorch' width="40" height="40">
-</a>
+alt="opencv" width="40" height="40"></a>
 
-<a href="https://pytorch.org/" target="_blank">
+<a href="https://fastapi.tiangolo.com/" target="_blank">
 <img src="https://www.svgrepo.com/show/330413/fastapi.svg"
-alt='pytorch' width="40" height="40">
+alt="fastapi" width="40" height="40"></a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+alt="nodejs" width="40" height="40"></a>
 
 ---
-</a>
+
+## AI / LLM
+
+<a href="https://www.langchain.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/langchain"
+alt="langchain / langgraph" width="40" height="40"></a>
+
+<a href="https://cloud.google.com/vertex-ai" target="_blank">
+<img src="https://cdn.simpleicons.org/googlegemini"
+alt="gemini / vertex ai" width="40" height="40"></a>
+
+<a href="https://www.anthropic.com/claude" target="_blank">
+<img src="https://cdn.simpleicons.org/claude"
+alt="claude" width="40" height="40"></a>
 
 ---
